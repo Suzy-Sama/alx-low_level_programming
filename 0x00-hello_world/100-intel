@@ -1,0 +1,2 @@
+#!/bin/basih
+gcc -S -masm=intel $CFILE
